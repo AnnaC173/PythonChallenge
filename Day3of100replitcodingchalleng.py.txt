@@ -1,0 +1,6 @@
+foodName = input ("Name a Food")
+plantType = input ("Name a green vegetable")
+cookingMethod = input ("Name a cooking method")
+burntFood = input ("Word to describe burnt food")
+householdItem = input ("Name a household item")
+print(cookingMethod, "the", foodName, "with", burntFood, "on a bed of", householdItem)
